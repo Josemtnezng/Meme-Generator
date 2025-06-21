@@ -1,0 +1,16 @@
+{
+  "name": "meme-generator",
+  "version": "1.0.0",
+  "description": "He creado un generador de memes con HTML, CSS y JS.",
+  "main": "app.js",
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2" 
+  }
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Memes</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <script src="app.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <h1>Generador de Memes</h1>
+        
+        <div class="controls">
+            <select id="meme-select" class="control-item">
+                <option>Cargando plantillas...</option>
+            </select>
+            <input type="text" id="top-text" class="control-item" placeholder="Texto de arriba">
+            <input type="text" id="bottom-text" class="control-item" placeholder="Texto de abajo">
+            <button id="download-btn" class="control-item">Descargar Meme</button>
+        </div>
+
+        <div class="meme-container">
+            <canvas id="meme-canvas"></canvas>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
