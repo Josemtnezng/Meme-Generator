@@ -14,13 +14,6 @@ Este proyecto fue desarrollado como una práctica para afianzar conocimientos en
 
 ---
 
-### 📸 Vista Previa
-
-*(Aquí te recomiendo poner una captura de pantalla o, mejor aún, un GIF de tu generador en acción. Sube la imagen a tu repositorio y reemplaza la URL de abajo)*
-
-![Vista previa del Generador de Memes](URL_DE_TU_IMAGEN_O_GIF_AQUI)
-
----
 
 ### ✨ Características Principales
 
